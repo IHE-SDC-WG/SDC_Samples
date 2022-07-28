@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 12,
+		"editor.mouseWheelZoom": true,
+		"scm.alwaysShowRepositories": true,
+		"diffEditor.codeLens": true
+	}
+}
