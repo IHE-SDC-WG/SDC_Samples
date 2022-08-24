@@ -6,8 +6,18 @@
 	],
 	"settings": {
 		"editor.fontSize": 12,
+		"editor.fontFamily": "Consolas, 'Courier New', monospace",
+		"editor.fontWeight": "500",
 		"editor.mouseWheelZoom": true,
+		"editor.colorDecorators": true,
 		"scm.alwaysShowRepositories": true,
-		"diffEditor.codeLens": true
+		"diffEditor.codeLens": true,
+		"workbench.colorCustomizations": {
+			"notebook.cellEditorBackground": "#ffffff",
+            "editor.background": "#dde9e6",
+			//"editorPane.background": "#f2fbf9",
+			"editor.foldBackground": "#dafff2",
+			//"editor.selectionBackground": "#ff0000"
+		    }
 	}
 }
